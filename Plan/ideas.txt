@@ -1,0 +1,11 @@
+------------------------------------------
+-----------ideas de proyecto--------------
+------------------------------------------
+
+por niveles:
+
+avanzado -> Sistema de Geolocalizacion
+
+normal -> Sistema para cadena de Restaurantes
+
+facil -> Sistemas de inventarios normales 

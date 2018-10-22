@@ -1,0 +1,45 @@
+------------------------------------------------------------------------
+---------idea base del sistema de Geolocalizacion-----------------------
+------------------------------------------------------------------------
+
+----------
+--Datos:--
+----------
+
+nivel -> Avanzado
+Tipo de Sistema -> Internet de las cosas
+
+---------------------
+----descripcion------
+---------------------
+
+Sistema o plataforma que brinda diversos datos y estadisticas sobre un objeto en relacion al cambio de ubicacion (celular,computadora,microcontrolador,chips,etc)
+
+-----------------------
+-----objetivos---------
+-----------------------
+
+De este tipo de Sistemas ya hay muchos en distribucion, pero la mayoria son realizados por empresas extranjeras que cobran mensualidades muy altas por el servicio, el objetivo es crear no solo un sistema sino tambien productos conectados a este que ofrescan soluciones a diversos problemas por tarifas mas bajas y accesibles.
+
+------------------------------------
+------acerca del mercado------------
+------------------------------------
+
+Para este tipo de ideas el mercado es inmenso, sobre todo en paises como Honduras, pais que vive principalmente de la exportacion de productos agricolas, las cuales requieren de transportistas para trasladar un producto, con la ayuda de la geolocalizacion se llevara un control detallado de ellos.
+como por ejemplo:
+cantidad de viajes por dia, consumo de combustible por KM cuadrados, velocidad del vehiculo, paradas o descansos, desvios, etc. Con el objetivo de mejorar la produccion y mantenerla estable.
+
+pero ese es solo un ejemplo de los usos de la aplicacion a nivel empresarial, a nivel personal uno de sus usos podria ser:
+
+-Tienes un perro que quieres mucho, un dia te levantas tarde y estas apunto de faltar a la universidad,te alistas como puedes, y con mucha prisa sales de tu casa, vas en el auto y te das cuenta que no le pusistes seguro al porton, cuando regresas esta el porton abierto y tu amigo peludo ya no esta, sales y lo buscas como puedes, pero es unutil, se ah ido...
+ah! pero recuerdas que comprastes aquel collar con chip integrado a tu querido cachorro, que te costo muy barato por cierto, abres la aplicacion de tu movil y descubres que tu perro esta apenas a 3 cuadras de tu casa.
+
+-lo mismo aplica a cualquier otro objeto o incluso persona que quieras mucho, por ejemplo, llaveros para llaves de auto, computadoras, autos, novias jajaja etc.
+
+-----------------------------------------
+------------requerimientos---------------
+-----------------------------------------
+
+Es una idea muy compleja porque requiere muchos tipos diferentes de sistemas, ya sea web, movil, desktop, microcontrolador, entre otros.
+
+
