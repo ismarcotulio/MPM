@@ -1,0 +1,55 @@
+-----------------------------------
+---------primeros pasos------------
+-----------------------------------
+
+El proyecto en su primer fase debera tener:
+
+1-Sistema Web
+2-Sistema Movil
+3-Sistema Escritorio
+4-Prototipo de aparato
+
+----------------------------------------
+------Segun investigaciones...----------
+----------------------------------------
+
+El Lenguage mas favorable es Java ya que por la "JavaVirtualachine" se puede compilar en casi cualquier dispositivo,
+por lo tanto para realizar los primeros 3 tipos de Sistemas solo se necesitara un lenguage, El analisis y creacion de 
+cada uno se realizara por aparte...
+
+
+--------------------------------------------------
+------------Creacion del dispositivo--------------
+--------------------------------------------------
+
+Para poder crear el dispositivo es necesario:
+
+1-conocer casos de exito:
+	Para crear un plan mas solido y estable, compararando diferentes proyectos, sus ventajas, desventajas y 
+	tecnologias que utilizaron.
+
+
+
+2-Investigar tecnologias:
+	Elegir las alternativas que mejor se adapten al plan, ya sea mediante PICs, Arduino, Raspberry pi o algun 
+	otro tipo de microcontrolador, o talvez otro tipo de tecnologia.
+
+3-Tener conocimientos basicos de electronica.
+	Necesarios para entender la programacion de microships, microcontroladores y demas componentes electronicos.
+
+4-tener conocimientos basicos de Geolocalizacion.
+
+----------------------------------------------------
+-------------------para comenzar--------------------
+----------------------------------------------------
+
+Se ah subido recursos que podrian ayudar a cumpli las metas de este primer plan:
+
+1- 3 tesis de proyectos recientes y exitosos.
+2- libro de elctronica basica para ingenieros.
+3- Manual basico de PICF16.
+
+------------------------------------------------------------------------
+Este documento se ira actualizando a medida se avance con el proecto... 
+-------------------------------------------------------------------------
+
