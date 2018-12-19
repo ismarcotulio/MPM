@@ -1,0 +1,60 @@
+
+Bocanegra es una proyecto dirigido a una empresa de telecomunicaciones satelital Peruana, es un proyecto muy ordenado, cuenta con una serie de misiones a cumplir y una vision en concreto que es solucionar los problemas de la empresa.
+
+Es un proyecto que se basa en tecnologias GPS mas en concreto en:
+--GIS: Sistemas de informacion geografica.
+--Funcionaran apartir de una plataforma web.
+--La fuente de informacion seran dispositivos que suministra la empresa, entre algunos ejemplos se pueden mencionar aparatos de la marca globalstar como "movil gsp 1700","Bgan eplorer 111" o "skypatrol Evolution".
+
+La informacion recibida depende del aparato pero entre algunos ejemplos segun sus sensores se pueden obtener:
+-Latitud.
+-Longitud.
+-Altitud.
+-Velocidad.
+-Rumnbo.
+-etc.
+
+SEgun sus sensores y el software del aparato pueden enviar eventos como:
+-Encendido del vehiculo.
+-Trama Normal.
+-alarma de exceso de velocidad.
+-Ingreso de geocercas.
+-Boton de panico.
+-etc.
+
+Problema de la empresa:
+La empresa tiene un software de escritorio basado en tecnologias GIS, para la gestion de la informacion enviada, ste software debe de instalarsele a cada uno de sus clientes.
+Esto representa mayor demanda de personal y perdida de tiempo, aparte de eso tambien le exige al cliente equipos que soporten la aplicacion.
+
+----------------------------------
+definicion GPS
+-----------------------------
+
+Global Position System es un sistma de navegacion satelital, y consiste en una red de satelites alrededor del planeta, que envian frecuencias las cuales son captadas por receptores es decir los dispositivos con antena gps.
+
+Antes del programa GPS xistieron:
+-TRANSIT (Sistema de navegacion de la marina de EuAA)
+-TIMATION (marina de EUA).
+-621B (Fuerzas armadas de EUA).
+
+funcionamiento:
+1-calcula posicion de un punto en el espacio (x,y,z).
+2-Calcula la distancia entre el receptor y el satelite, esta dependera del tiempo que tarde en llegar la frecuencia del satelite al receptor, luego se utilizan los relojes sincronizados de los ssatelites y las del receptor para corregir errores y obtener la posicion exacta.
+
+--------------------------
+receptor gPS
+------------------------
+Es todo aparato con antena, cadena de radio frecuencia y convertidor analogo digital.
+
+funcionamiento:
+1-La antena recibe la señal.
+2-La cadena de radio frecuencia amplifica la señal a una adecuada amplitud y esta es convertida a una frecuencia de salida adecuada.
+3-El convertidor analogo digital digitaliza la señal de salida.
+4-se utiliza un software para obtener las coordenadas del receptor GPS.
+
+Conceptos importantes:
+
+1-GIS (Sistema de informacion geografica).
+2-Sstema de monitoreo vehicular.
+3-Empresas importantes de telecomunicaciones satelitales globales como: GlobalStar, Iridium Communications,
+
